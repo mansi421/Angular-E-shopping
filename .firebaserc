@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "e-shopping-32605": {
+      "hosting": {
+        "E-shopping": [
+          "e-shopping-32605"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "e-shopping-32605"
+  }
+}
